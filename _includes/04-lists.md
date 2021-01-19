@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I like birds
+  - Except geese
+- Trees are pretty slick too
